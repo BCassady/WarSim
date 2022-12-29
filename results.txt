@@ -1,0 +1,9 @@
+Shuffle Supply: True
+Number of Games: 100000
+Average Turns (Completed Games): 296.20438
+Games that ended in a loop: 0
+
+Shuffle Supply: False
+Number of Games: 100000
+Average Turns (Completed Games): 590.3759281717411
+Games that ended in a loop: 5998
